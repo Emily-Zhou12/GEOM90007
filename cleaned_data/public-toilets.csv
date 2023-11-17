@@ -1,0 +1,75 @@
+type,latitude,longitude,address,female,male,wheelchair,baby_facil,operator,name
+Public Toilet ,-37.80399463,144.9590907,Queensberry Street (Opposite 286 Queensberry Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81383779,144.9630972,Elizabeth Street (Toilet Adjacent 200 Elizabeth Street),yes,no,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.80463971,144.9628502,Queensberry Street (Adjacent 179 Queensberry Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.78622125,144.9550009,Royal Park Brens Pavilion,yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.79373229,144.9303519,Bellair Street (Opposite 180 Bellair Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81527808,144.9775888,Fitzroy Gardens (2 Lansdowne Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80823347,144.9601869,Franklin Street (Opposite 80 Franklin Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81521577,144.9669433,Town Hall Melbourne (200 Collins Street),yes,yes,yes,yes,City of Melbourne,Toilet
+Public Toilet ,-37.79017441,144.9436691,Royal Park (Flemington Rd),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80680577,144.9626485,Swanston Street (Opposite 475 - 511 Swanston Street),yes,no,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81940611,144.9612768,Flinders Street (399 Flinders Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81859887,144.9710596,Birrarung Marr (Opposite Artplay),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.83084912,144.9751823,Kings Domain South (off Birdwood Avenue),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81324543,144.9668966,Bourke Street (opposite 225 Bourke Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.8228916,144.975281,Kings Domain Myer Music Bowl Rear of,yes,yes,yes,yes,City of Melbourne,Toilet
+Public Toilet ,-37.79552315,144.952143,"Royal Park (Nature Play, Opposite 51 Gatehouse Street)",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.82035527,144.9733129,Alexandra Gardens (Riverslide Skate Park),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.8179032,144.9662643,Flinders Street (No 245 Flinders Street Station),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.796799,144.9519667,Levers Reserve -  Flemington Road,yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.82691575,144.9746478,Kings Domain Government House Drive,yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.8061215,144.9565384,Queen Victoria Market (153 Victoria Street),yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81979598,144.9376654,"Victoria Harbour, Shed 3 (North Wharf Road)",no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.78559839,144.9630354,Princes Park South Playground (Princes Park Drive),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81435831,144.9416822,"Saint Mangos Lane, The Palladio (New Quay)",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81746989,144.9602543,Market Street (Opposite 74 Market Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80264555,144.9698213,Carlton Gardens North (Opposite 199 Rathdowne Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.79301168,144.9739949,Canning Street Reserve (49 Princes Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.84014769,144.9813831,"Fawkner Park, North Pavilion (Male)",no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.79806402,144.9211058,"JJ Holland Park, Skate Park (113 Kensington Road)",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.8129331,144.9600121,Lonsdale Street (Opposite 424 Lonsdale Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.7987096,144.9675939,Faraday Street (Opposite 208 - 212 Faraday Street),yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.83013254,144.9650122,Sturt Street Reserve (280 Sturt Street),yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.78187132,144.9561425,Royal Park Golf Course Club House,yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.78848882,144.9235637,Newmarket Reserve (26 Smithfield Road),yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81384642,144.9713741,Exhibition Street (Opposite 77 Exhibition Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.77894961,144.9604659,Princes Park Royal Parade (near Park Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.82100478,144.9759332,Birrarung Marr Speakers Corner,yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.84001779,144.981227,"Fawkner Park, North Pavilion (Female)",yes,no,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.80682129,144.958747,"Queen Victoria Market (Meat Hall / ""H"" Shed)",yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81341844,144.977467,Treasury Gardens (Store and Toilet),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.78303248,144.9418564,"Royal Park, Wetland (off Oak Street)",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.83393827,144.981784,Kings Domain South (Opposite 169 Domain Road),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80783122,144.9579553,Queen Victoria Market (465 Queen Street),yes,yes,yes,yes,City of Melbourne,Toilet
+Public Toilet ,-37.80207629,144.966424,Argyle Place North (Opposite 4 Argyle Place North),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.79251146,144.9568517,Royal Park -  Native Garden (off Gatehouse Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81224078,144.9739256,Gordon Reserve (74 - 108 Spring Street),yes,no,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.78790483,144.9594948,Princes Park (Adjacent Southern Sports Pavilion),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80271182,144.9622681,Lincoln Square (138 - 142 Bouverie Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81583817,144.9610621,Queen Street (opposite 113 Queen Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.82294829,144.9709857,Queen Victoria Gardens (Linlithgow Avenue),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80891324,144.9550402,Flagstaff Gardens (cnr William & Dudley),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81892446,144.9342385,"Victoria Harbour, Shed 2 (North Wharf Road)",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81598983,144.9727984,Flinders Street (27 Flinders Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.82764305,144.9818117,Alexandra Park,yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.82172068,144.9555781,Batman Park (2A Spencer Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81343921,144.9629227,Elizabeth Street (Toilet Adjacent 200 Elizabeth Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81434552,144.9551179,Lonsdale Street (Opposite 581 Lonsdale Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80625893,144.9692027,Carlton Gardens South (Opposite 39 Rathdowne Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80894207,144.9656488,Latrobe Street (Adjacent 120 La Trobe Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.80945203,144.973077,Nicholson Street (1A Nicholson Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.82331083,144.9418276,Point Park (Point Park Crescent),yes,yes,yes,yes,City of Melbourne,Toilet
+Public Toilet ,-37.81722059,144.9340027,Ron Barassi Senior Park Pavilion,yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.81003568,144.9699025,Lonsdale Street (Opposite 88 Lonsdale Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80954605,144.9694071,Exhibition Street (Opposite 242 Exhibition Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81094233,144.9868587,Powlett Reserve (Opposite 128 Albert Street),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.8217586,144.9473834,Docklands Park South -  25 Harbour Esplanade,yes,yes,yes,yes,City of Melbourne,Toilet
+Public Toilet ,-37.80307787,144.9498652,Queensberry Street (Opposite 530 Queensberry Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.84520656,144.9826144,"Fawkner Park, Opposite 55 Commercial Road",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.79812546,144.9264247,"JJ Holland Park (Opposite, 48 Altona Street)",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80637962,144.9590578,Queen Victoria Market (Food Court - 81 Victoria Street),yes,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.83825284,144.9843892,"Fawkner Park, Opposite 150W Toorak Road",yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.82034213,144.9642197,Southbank Promenade (opposite Esso House),yes,yes,yes,no,City of Melbourne,Toilet
+Public Toilet ,-37.80309428,144.9499463,Queensberry Street (Opposite 530 Queensberry Street),no,yes,no,no,City of Melbourne,Toilet
+Public Toilet ,-37.81203616,144.9830749,Fitzroy Gardens Toilets (150 Clarendon Street),yes,yes,yes,no,City of Melbourne,Toilet

@@ -1,0 +1,78 @@
+﻿Geo Point,Geo Shape,night_only,loc_desc,ref,num_spaces,safe_city
+"-37.813699729532, 144.957724746365","{""coordinates"": [144.957724746365, -37.813699729532], ""type"": ""Point""}",No,Lonsdale Street between Queen Street and William Street,8,1,No
+"-37.819407421255, 144.953274232669","{""coordinates"": [144.953274232669, -37.819407421255], ""type"": ""Point""}",No,Collins Street between Spencer Street and Batmans Hill Drive,12,5,No
+"-37.813803234929, 144.97256799878","{""coordinates"": [144.97256799878, -37.813803234929], ""type"": ""Point""}",No,Collins Street between Spring Street and Exhibition Street,46,7,No
+"-37.833879766975, 144.982581901032","{""coordinates"": [144.982581901032, -37.833879766975], ""type"": ""Point""}",No,Birdwood Avenue between Dallas Brooks Drive and Domain Road,65,6,No
+"-37.815877104905, 144.964926355964","{""coordinates"": [144.964926355964, -37.815877104905], ""type"": ""Point""}",No,Collins Street between Swanston Street and Elizabeth Street,27,3,No
+"-37.810983324176, 144.961766589692","{""coordinates"": [144.961766589692, -37.810983324176], ""type"": ""Point""}",No,Elizabeth Street between Little Lonsdale Street and La Trobe Street,31,4,No
+"-37.807765462287, 144.968441130705","{""coordinates"": [144.968441130705, -37.807765462287], ""type"": ""Point""}",No,Exhibition Street between La Trobe Street and Victoria Street,34,2,No
+"-37.809750629726, 144.969622952391","{""coordinates"": [144.969622952391, -37.809750629726], ""type"": ""Point""}",No,Exhibition Street between Lonsdale Street and Little Lonsdale Street,35,7,No
+"-37.815980174729, 144.963854189827","{""coordinates"": [144.963854189827, -37.815980174729], ""type"": ""Point""}",No,Elizabeth Street between Collins Street and Little Collins Street,21,2,No
+"-37.821258397135, 144.964411571626","{""coordinates"": [144.964411571626, -37.821258397135], ""type"": ""Point""}",No,Riverside Quay between Cook Street and Southgate Avenue,68,8,No
+"-37.813913169396, 144.962908854161","{""coordinates"": [144.962908854161, -37.813913169396], ""type"": ""Point""}",No,Elizabeth Street between Bourke Street and Little Bourke Street,29,3,No
+"-37.810148370021, 144.963949536235","{""coordinates"": [144.963949536235, -37.810148370021], ""type"": ""Point""}",No,Swanston Street between Little Lonsdale Street and La Trobe Street,66,6,No
+"-37.813586439004, 144.96019551858","{""coordinates"": [144.96019551858, -37.813586439004], ""type"": ""Point""}",Yes,Queen Street between Little Bourke Street and Lonsdale Street,76,11,Yes
+"-37.820512744001, 144.9685541155","{""coordinates"": [144.9685541155, -37.820512744001], ""type"": ""Point""}",No,St Kilda Road between Yarra River and Southbank Boulevard,7,3,No
+"-37.845490589546, 144.979198541145","{""coordinates"": [144.979198541145, -37.845490589546], ""type"": ""Point""}",No,St Kilda Road between Commercial Road and Moubray Street,64,10,No
+"-37.816165346752, 144.96815014519","{""coordinates"": [144.96815014519, -37.816165346752], ""type"": ""Point""}",No,Flinders Lane between Russell Street and Swanston Street,73,2,No
+"-37.816646162288, 144.962247915862","{""coordinates"": [144.962247915862, -37.816646162288], ""type"": ""Point""}",No,Collins Street between Elizabeth Street and Queen Street,10,1,No
+"-37.816651294572, 144.952874990473","{""coordinates"": [144.952874990473, -37.816651294572], ""type"": ""Point""}",No,Spencer Street between Bourke Street and Little Bourke Street,2,3,No
+"-37.811942007108, 144.963095593112","{""coordinates"": [144.963095593112, -37.811942007108], ""type"": ""Point""}",No,Lonsdale Street between Swanston Street and Elizabeth Street,32,2,No
+"-37.818033802568, 144.958043343215","{""coordinates"": [144.958043343215, -37.818033802568], ""type"": ""Point""}",No,Collins Street between William Street and King Street,17,6,No
+"-37.799458157772, 144.956007723164","{""coordinates"": [144.956007723164, -37.799458157772], ""type"": ""Point""}",No,Grattan Street between Flemington Road and Elizabeth Street,70,6,No
+"-37.819207191027, 144.945660532885","{""coordinates"": [144.945660532885, -37.819207191027], ""type"": ""Point""}",No,Bourke Street between Harbour Esplanade and Enterprize Way,14,10,No
+"-37.817846448983, 144.960293300296","{""coordinates"": [144.960293300296, -37.817846448983], ""type"": ""Point""}",No,Market Street between Flinders Lane and Collins Street,19,4,No
+"-37.816888213869, 144.967239025049","{""coordinates"": [144.967239025049, -37.816888213869], ""type"": ""Point""}",No,Swanston Street between Flinders Street and Flinders Lane,26,5,No
+"-37.811898366701, 144.975326526788","{""coordinates"": [144.975326526788, -37.811898366701], ""type"": ""Point""}",No,St Andrews Place between Lansdowne Street and MacArthur Street,57,3,No
+"-37.822788619856, 144.960380145991","{""coordinates"": [144.960380145991, -37.822788619856], ""type"": ""Point""}",No,Crown Entertainment Complex,67,3,No
+"-37.822641571312, 144.969534305783","{""coordinates"": [144.969534305783, -37.822641571312], ""type"": ""Point""}",No,St Kilda Road between Yarra River and Southbank Boulevard,52,6,No
+"-37.819054517276, 144.956823990827","{""coordinates"": [144.956823990827, -37.819054517276], ""type"": ""Point""}",Yes,King Street between Flinders Lane and Collins Street,16,7,Yes
+"-37.808054210289, 144.955752211867","{""coordinates"": [144.955752211867, -37.808054210289], ""type"": ""Point""}",No,Peel Street between Dudley Street and Victoria Street,59,5,No
+"-37.819141148696, 144.953575920849","{""coordinates"": [144.953575920849, -37.819141148696], ""type"": ""Point""}",No,Collins Street between Spencer Street and Batmans Hill Drive,75,4,No
+"-37.812116473101, 144.973270703733","{""coordinates"": [144.973270703733, -37.812116473101], ""type"": ""Point""}",No,Spring Street between Little Collins Street and Bourke Street,44,2,No
+"-37.812251944281, 144.964915329338","{""coordinates"": [144.964915329338, -37.812251944281], ""type"": ""Point""}",No,Swanston Street between Little Bourke Street and Lonsdale Street,30,6,No
+"-37.817482721671, 144.953256067776","{""coordinates"": [144.953256067776, -37.817482721671], ""type"": ""Point""}",No,Spencer Street between Little Collins Street and Bourke Street,1,5,No
+"-37.814216559397, 144.967145459973","{""coordinates"": [144.967145459973, -37.814216559397], ""type"": ""Point""}",No,Little Collins Street between Russell Street and Swanston Street,48,2,No
+"-37.811352496759, 144.970230826446","{""coordinates"": [144.970230826446, -37.811352496759], ""type"": ""Point""}",No,Exhibition Street between Bourke Street and Little Bourke Street,38,5,No
+"-37.845620660866, 144.983855969458","{""coordinates"": [144.983855969458, -37.845620660866], ""type"": ""Point""}",No,Commercial Road between St Kilda Road and Punt Road,58,10,No
+"-37.807629761424, 144.962259426442","{""coordinates"": [144.962259426442, -37.807629761424], ""type"": ""Point""}",No,Franklin Street between Swanston Street and Elizabeth Street,51,6,No
+"-37.819971637557, 144.95750844862","{""coordinates"": [144.95750844862, -37.819971637557], ""type"": ""Point""}",Yes,King Street between Flinders Street and Flinders Lane,77,9,Yes
+"-37.814787756561, 144.96609420339","{""coordinates"": [144.96609420339, -37.814787756561], ""type"": ""Point""}",No,Swanston Street between Collins Street and Little Collins Street,71,3,No
+"-37.815002267138, 144.969234562672","{""coordinates"": [144.969234562672, -37.815002267138], ""type"": ""Point""}",No,Russell Street between Flinders Lane and Collins Street,72,3,No
+"-37.811622431711, 144.971817800282","{""coordinates"": [144.971817800282, -37.811622431711], ""type"": ""Point""}",No,Bourke Street between Spring Street and Exhibition Street,43,3,Yes
+"-37.816714445959, 144.954206016717","{""coordinates"": [144.954206016717, -37.816714445959], ""type"": ""Point""}",No,Bourke Street between King Street and Spencer Street,74,3,No
+"-37.816442145446, 144.958417957796","{""coordinates"": [144.958417957796, -37.816442145446], ""type"": ""Point""}",No,William Street between Little Collins Street and Bourke Street,9,1,No
+"-37.815580334736, 144.960841715904","{""coordinates"": [144.960841715904, -37.815580334736], ""type"": ""Point""}",Yes,Queen Street between Little Collins Street and Bourke Street,11,12,Yes
+"-37.815090125208, 144.969020896889","{""coordinates"": [144.969020896889, -37.815090125208], ""type"": ""Point""}",No,Russell Street between Flinders Lane and Collins Street,41,1,No
+"-37.815240851979, 144.971911101554","{""coordinates"": [144.971911101554, -37.815240851979], ""type"": ""Point""}",No,Exhibition Street between Flinders Street and Flinders Lane,6,2,No
+"-37.809151764453, 144.975898423988","{""coordinates"": [144.975898423988, -37.809151764453], ""type"": ""Point""}",No,Gisborne Street between Albert Street and Victoria Parade,56,6,No
+"-37.816394707979, 144.958652759646","{""coordinates"": [144.958652759646, -37.816394707979], ""type"": ""Point""}",No,William Street between Little Collins Street and Bourke Street,18,7,No
+"-37.811277451142, 144.973304242296","{""coordinates"": [144.973304242296, -37.811277451142], ""type"": ""Point""}",No,Parliament House,45,4,No
+"-37.808019550582, 144.947483718061","{""coordinates"": [144.947483718061, -37.808019550582], ""type"": ""Point""}",No,Roden Street between Adderley Street and Spencer Street,61,5,No
+"-37.814167083012, 144.93906339248","{""coordinates"": [144.93906339248, -37.814167083012], ""type"": ""Point""}",No,Docklands Drive between Waterfront Way and Pearl River Road,13,11,No
+"-37.800409226228, 144.964731537269","{""coordinates"": [144.964731537269, -37.800409226228], ""type"": ""Point""}",No,Grattan Street between Cardigan Street and Swanston Street,62,3,No
+"-37.81371230593, 144.965834745769","{""coordinates"": [144.965834745769, -37.81371230593], ""type"": ""Point""}",No,Swanston Street between Little Collins Street and Bourke Street,47,4,No
+"-37.816605935139, 144.961559876773","{""coordinates"": [144.961559876773, -37.816605935139], ""type"": ""Point""}",No,Queen Street between Collins Street and Little Collins Street,49,2,No
+"-37.813310962011, 144.970239202572","{""coordinates"": [144.970239202572, -37.813310962011], ""type"": ""Point""}",No,Little Collins Street between Exhibition Street and Russell Street,40,6,No
+"-37.815800816842, 144.982752695581","{""coordinates"": [144.982752695581, -37.815800816842], ""type"": ""Point""}",No,Clarendon Street between Wellington Parade and George Street,54,6,No
+"-37.807949000136, 144.961167089897","{""coordinates"": [144.961167089897, -37.807949000136], ""type"": ""Point""}",No,Franklin Street between Swanston Street and Elizabeth Street,50,5,No
+"-37.816040041291, 144.982967553651","{""coordinates"": [144.982967553651, -37.816040041291], ""type"": ""Point""}",No,Wellington Parade between Powlett Street and Clarendon Street,55,1,No
+"-37.818563846933, 144.956254692409","{""coordinates"": [144.956254692409, -37.818563846933], ""type"": ""Point""}",No,Collins Street between King Street and Spencer Street,15,2,No
+"-37.818076013818, 144.967531439485","{""coordinates"": [144.967531439485, -37.818076013818], ""type"": ""Point""}",No,Swanston Street between Princes Bridge and Flinders Street,25,6,Yes
+"-37.810513654662, 144.968615289016","{""coordinates"": [144.968615289016, -37.810513654662], ""type"": ""Point""}",No,Lonsdale Street between Exhibition Street and Russell Street,36,2,No
+"-37.809395658678, 144.972471065591","{""coordinates"": [144.972471065591, -37.809395658678], ""type"": ""Point""}",No,Albert Street between Spring Street and Nicholson Street,37,1,No
+"-37.81301197586, 144.967106057496","{""coordinates"": [144.967106057496, -37.81301197586], ""type"": ""Point""}",Yes,Bourke Street between Russell Street and Swanston Street,4,11,No
+"-37.823478512532, 144.98046718977","{""coordinates"": [144.98046718977, -37.823478512532], ""type"": ""Point""}",No,Olympic Boulevard between Punt Road and Batman Avenue,53,12,No
+"-37.815126777236, 144.95528112114","{""coordinates"": [144.95528112114, -37.815126777236], ""type"": ""Point""}",Yes,King Street between Little Bourke Street and Lonsdale Street,23,3,No
+"-37.795976841954, 144.967873947464","{""coordinates"": [144.967873947464, -37.795976841954], ""type"": ""Point""}",No,Intersection of Lygon Street and Palmerston Street,63,4,No
+"-37.80803193165, 144.955445459469","{""coordinates"": [144.955445459469, -37.80803193165], ""type"": ""Point""}",No,Peel Street between Dudley Street and Victoria Street,60,4,No
+"-37.816710786254, 144.962629155314","{""coordinates"": [144.962629155314, -37.816710786254], ""type"": ""Point""}",No,Collins Street between Elizabeth Street and Queen Street,20,4,No
+"-37.816063032295, 144.956588111225","{""coordinates"": [144.956588111225, -37.816063032295], ""type"": ""Point""}",No,Bourke Street between William Street and King Street,22,4,No
+"-37.813138356776, 144.967172710631","{""coordinates"": [144.967172710631, -37.813138356776], ""type"": ""Point""}",Yes,Bourke Street between Russell Street and Swanston Street,5,11,No
+"-37.812440458076, 144.967797296914","{""coordinates"": [144.967797296914, -37.812440458076], ""type"": ""Point""}",No,Russell Street between Bourke Street and Little Bourke Street,39,1,No
+"-37.794157205107, 144.948928782083","{""coordinates"": [144.948928782083, -37.794157205107], ""type"": ""Point""}",No,Royal Children's Hospital,69,9,No
+"-37.814517780445, 144.970145954136","{""coordinates"": [144.970145954136, -37.814517780445], ""type"": ""Point""}",No,Collins Street between Exhibition Street and Russell Street,42,4,No
+"-37.814529682801, 144.962505987872","{""coordinates"": [144.962505987872, -37.814529682801], ""type"": ""Point""}",No,Bourke Street between Elizabeth Street and Queen Street,33,8,No
+"-37.814563551834, 144.963408261204","{""coordinates"": [144.963408261204, -37.814563551834], ""type"": ""Point""}",No,Elizabeth Street between Little Collins Street and Bourke Street,28,2,No
+"-37.81407411307, 144.956073650638","{""coordinates"": [144.956073650638, -37.81407411307], ""type"": ""Point""}",No,Lonsdale Street between William Street and King Street,24,6,No
+"-37.817920052074, 144.9654329988","{""coordinates"": [144.9654329988, -37.817920052074], ""type"": ""Point""}",Yes,Flinders Street between Swanston Street and Elizabeth Street,3,8,No
